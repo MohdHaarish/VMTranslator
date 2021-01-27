@@ -1,0 +1,3 @@
+C:/Users/Haari/CLionProjects/VMTranslator/cmake-build-debug/CMakeFiles/VMTranslator.dir
+C:/Users/Haari/CLionProjects/VMTranslator/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Haari/CLionProjects/VMTranslator/cmake-build-debug/CMakeFiles/rebuild_cache.dir
